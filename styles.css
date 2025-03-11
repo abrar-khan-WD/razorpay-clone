@@ -1,7 +1,9 @@
 @import "tailwindcss";
+@import "flowbite/src/themes/default";
+
 
 /* Define Theme Colors */
-@theme {
+  @theme {
   --color-deepBlue: #02042a;
   --color-lightBlue: #2b84ea;
   --color-lightBlue300: #4b94ed;
@@ -12,6 +14,7 @@
   --color-grayBlue: #344a6c;
   --color-deepBlueHead: #162f56;
   --color-gray2: #525a76;
+  --color-feature:#181C2E;
 
   /* Font Property */
 
